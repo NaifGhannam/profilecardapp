@@ -41,7 +41,7 @@ class ProfileScreen extends StatelessWidget {
   final String name = 'Naif Almutairi';
   final String email = 'naif@example.com';
   final String networkImageUrl =
-      'https://i.pravatar.cc/300'; // Example profile pic URL
+      'https://live.staticflickr.com/7191/6958547561_4919a180b3_b.jpg';
 
   @override
   Widget build(BuildContext context) {
